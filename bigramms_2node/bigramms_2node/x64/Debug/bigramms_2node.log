@@ -1,0 +1,7 @@
+﻿  main_backend.cpp
+G:\Учеба\1 курс КНМО\C++\bigramms_2node\bigramms_2node\resources\main_backend.cpp(393,1): warning C4715: getBigramm: значение возвращается не при всех путях выполнения
+G:\Учеба\1 курс КНМО\C++\bigramms_2node\bigramms_2node\resources\main_backend.cpp(531,1): warning C4715: func_next_word: значение возвращается не при всех путях выполнения
+G:\Учеба\1 курс КНМО\C++\bigramms_2node\bigramms_2node\headers\list_func.h(104,1): warning C4715: List<bigramm_dict>::operator[]: значение возвращается не при всех путях выполнения
+G:\Учеба\1 курс КНМО\C++\bigramms_2node\bigramms_2node\headers\list_func.h(104,1): warning C4715: List<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator[]: значение возвращается не при всех путях выполнения
+G:\Учеба\1 курс КНМО\C++\bigramms_2node\bigramms_2node\headers\list_func.h(104,1): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+  bigramms_2node.vcxproj -> G:\Учеба\1 курс КНМО\C++\bigramms_2node\bigramms_2node\x64\Debug\bigramms_2node.exe
